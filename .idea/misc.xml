@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1235" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/drawable/ic_baseline_fastfood_24.xml" value="0.1235" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/drawable/ic_console.xml" value="0.1235" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/drawable/ic_fact.xml" value="0.1235" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/drawable/ic_film.xml" value="0.1235" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/drawable/ic_home.xml" value="0.1235" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/drawable/ic_kuliah.xml" value="0.1235" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1235" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/drawable/ic_location.xml" value="0.1235" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/drawable/ic_logout.xml" value="0.1235" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/drawable/ic_mandi.xml" value="0.1235" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/drawable/ic_media.xml" value="0.1235" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/drawable/ic_mma.xml" value="0.1235" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/drawable/ic_more.xml" value="0.1235" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/drawable/ic_more_vert.xml" value="0.125" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/drawable/ic_music.xml" value="0.125" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/drawable/ic_profil.xml" value="0.125" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/drawable/ic_tidur.xml" value="0.1235" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/drawable/ic_volley.xml" value="0.1235" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/drawable/onboard_indicator_inactive.xml" value="0.1235" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/drawable/onboarding_indicator_active.xml" value="0.1235" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/drawable/styleicon.xml" value="0.125" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/layout/activity_daily.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/layout/activity_gallery.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/layout/activity_home.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/layout/activity_music.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/layout/activity_profile.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/layout/activity_walk_through1.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/layout/item_container_onboarding.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/layout/list_friend_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/layout/list_gallery_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/layout/list_item.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/layout/list_music.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/layout/main_nav_drawer.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/layout/main_toolbar.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/10119189MySelfApps/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1235" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
